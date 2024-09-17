@@ -26,7 +26,7 @@ To run this project, you need the following:
 1. Clone the repository or download the source code.
    
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/liam-007/Municipal-Issue-Reporter.git
    ```
 
 2. Open the solution in Visual Studio.
