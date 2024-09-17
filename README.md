@@ -26,7 +26,7 @@ To run this project, you need the following:
 1. Clone the repository or download the source code.
    
    ```bash
-   git clone https://github.com//liam-007/Municipal-Issue-Reporter.git
+   git clone https://github.com/your-repo-link.git
    ```
 
 2. Open the solution in Visual Studio.
@@ -48,6 +48,18 @@ To run this project, you need the following:
 
 3. **Toggle Theme**:
    - You can switch between light and dark themes by using the **Toggle Theme** button. The selected theme will persist across forms.
+
+## Screenshots
+
+### Light Theme:
+![light1](https://github.com/user-attachments/assets/05ba78fc-3a4f-4bc7-af50-e1c6f1e4a62d)
+
+![light2](https://github.com/user-attachments/assets/9df2a8d1-af4e-49e0-a72d-0f6dd4de15bb)
+
+### Dark Theme:
+![dark1](https://github.com/user-attachments/assets/07b4e6d2-db4c-4f6b-976b-a4244f8c2eee)
+
+![dark2](https://github.com/user-attachments/assets/051c80d9-8289-4502-b629-5ceb043678d4)
 
 
 ## Code Overview
@@ -75,4 +87,5 @@ This project is licensed under the MIT License.
 For any issues or inquiries, please contact:
 
 - **Liam** - [liamcole0705@gmail.com]
+
 
