@@ -1,0 +1,13 @@
+C:\Users\liama\source\repos\MunicipalityServices\bin\Debug\MunicipalityServices.exe.config
+C:\Users\liama\source\repos\MunicipalityServices\bin\Debug\MunicipalityServices.exe
+C:\Users\liama\source\repos\MunicipalityServices\bin\Debug\MunicipalityServices.pdb
+C:\Users\liama\source\repos\MunicipalityServices\bin\Debug\MaterialSkin.dll
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.csproj.AssemblyReference.cache
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.Form1.resources
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.Properties.Resources.resources
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.ReportIssuesForm.resources
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.csproj.GenerateResource.cache
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.csproj.CoreCompileInputs.cache
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\Municipa.3E13A98C.Up2Date
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.exe
+C:\Users\liama\source\repos\MunicipalityServices\obj\Debug\MunicipalityServices.pdb

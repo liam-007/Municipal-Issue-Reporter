@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\reportissuesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:reportissuesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|c:\\users\\liama\\source\\repos\\municipalityservices\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\issues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:issues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|C:\\Users\\liama\\source\\repos\\MunicipalityServices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050C42-33FD-43AD-8281-465ECA052B33}|MunicipalityServices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportIssuesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\ReportIssuesForm.cs",
+              "RelativeDocumentMoniker": "ReportIssuesForm.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\ReportIssuesForm.cs [Design]",
+              "RelativeToolTip": "ReportIssuesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:56:05.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADgv1sAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:46:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:45:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:59:42.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Issues.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Issues.cs",
+              "RelativeDocumentMoniker": "Issues.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Issues.cs",
+              "RelativeToolTip": "Issues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:36:08.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportIssuesForm.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\ReportIssuesForm.cs",
+              "RelativeDocumentMoniker": "ReportIssuesForm.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\ReportIssuesForm.cs",
+              "RelativeToolTip": "ReportIssuesForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwB8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:13:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportIssuesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\ReportIssuesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReportIssuesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\ReportIssuesForm.Designer.cs",
+              "RelativeToolTip": "ReportIssuesForm.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAywNQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:11:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MunicipalityServices\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:01:23.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
